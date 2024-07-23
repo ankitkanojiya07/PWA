@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #editor {
+    display: flex;
+  }
+  
+  #textarea {
+    flex: 1;
+    height: 400px;
+  }
+  
+  #userList {
+    width: 200px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-left: 1px solid #ccc;
+  }
+  
